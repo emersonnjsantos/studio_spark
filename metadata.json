@@ -1,0 +1,6 @@
+{
+  "name": "ColorSpark - Custom Kids Coloring Book Generator",
+  "description": "Generate personalized 5-page printable children's coloring books with thick black outlines, custom themes, child name covers, AI chat assistant, and instant PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
